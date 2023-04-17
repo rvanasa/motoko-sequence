@@ -1,4 +1,4 @@
-./package-set #
+./package-set.dhall #
   [ { name = "crud"
     , repo = "https://github.com/matthewhammer/motoko-crud"
     , version = "master"
